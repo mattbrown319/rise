@@ -1,0 +1,217 @@
+//@import "normalize";
+@import "reset";
+@import "globals";
+
+
+//
+//******************************************************************************HEADER
+.receiveCode{
+	@extend %container;
+	padding: 0;
+	}
+.receiveCode pre{
+	background: black;
+	color: white;
+	display: inline-block;
+	height: 40px;
+	margin-left: 40px;
+	padding: 10px;
+	position: relative;
+	&::before, &::after{
+		position: absolute;
+		content: "";
+		border: 20px solid black;
+		height: 0;
+		width: 0;
+		top: 0;
+		}
+	&::before{
+		left: -40px;
+		border-color:  transparent $closeBlack $closeBlack transparent;
+		}
+	&::after{
+		border-color: black transparent transparent black;
+		right: -40px;
+		}
+	}
+
+	
+//SECTIONS
+//
+//******************************************************************************RISE CALL
+.riseWrap{
+	background: url("../images/robo-sign.png") top right no-repeat, linear-gradient(to bottom, $closeBlack, black);
+	background-size: contain;
+	border-top: 5px solid rgba(white,.2);
+	padding: 0 15px;
+	}
+.riseUp{
+	@extend %container;
+	padding: 15px 0 20px;
+	aside{
+		color: white;
+		}
+	.formWrap{align-self: center;}
+	}
+.riseUp .highlightRed{
+	animation: 100ms blinkNow ease-in infinite;
+	}
+	
+//EMAIL FORM
+.riseForm{
+	label{
+		position: absolute;
+		width: 1px;
+		height: 1px;
+		margin: -1px;
+		padding: 0px;
+		overflow: hidden;
+		clip: rect(0px, 0px, 0px, 0px);
+		border: 0px none;
+		}
+	input{
+		background: none;
+		border: 1px solid rgba($mainYellow,.7);
+		border-radius: 2px;
+		color: white;
+		flex: 1 100%;
+		font: 400 1.2em/1.2em $codeStack;
+		height: 50px;
+		padding: 0 10px;
+		text-align: left;
+		&:focus{
+			background: rgba($mainYellow,.2);
+			outline: none;
+			}
+		}
+	.buttonWrap{
+		font-weight: 200;
+		font-size: 1.4em;
+		padding-right: 50px;
+		position: relative;
+		&::after{
+			content: "";
+			border: 25px solid black;
+			border-color:darken($mainRed,10%) transparent transparent darken($mainRed,10%);
+			position: absolute;
+			top:0;
+			right: 0;
+			}
+		&:hover::after{border-color: saturate($mainRed,15%) transparent transparent saturate($mainRed,15%);}	
+		}
+	.button{
+		background: $mainRed;
+		border:none;
+		border-radius: 2px 0 0 2px;
+		cursor: pointer;
+		margin-bottom: 0;
+		width: 100%;
+		&:focus{background: darken($mainRed,10%);}
+		&:hover{background: saturate($mainRed,10%); text-shadow: 0 1px 2px black;}
+		}
+	.buttonWrap:hover .button, .button:hover{
+		background: linear-gradient(45deg, darken($mainRed,10%), saturate($mainRed,10%));
+		text-shadow: 0 1px 2px black;
+		}
+	}
+.mc-field-group{
+	display: flex;
+	flex-wrap: nowrap;
+	margin-bottom: 15px;
+	}
+.halvesGroup input{
+	margin-right: 15px;
+	& + label + input{ margin-right: 0;}
+	}
+	
+//
+//*****************************************************************************REPORTS
+.reportWrap{
+	background: url("../images/red-gears.png") center top no-repeat;
+	border-top: 5px solid rgba(white,.1);
+	padding: 50px 0 30px;
+	h2{
+		text-align: center;
+		text-shadow: 0 1px 3px darken($mainRed,30%);
+		margin-bottom: 30px;
+		}
+	}
+.reportsIncoming{
+	@extend %container;
+	max-width: 710px;
+	article{
+		background: linear-gradient(45deg, rgba(black,.6),rgba($closeBlack,.8));
+		border-bottom: 5px solid black;
+		color: white;
+		font: 200 normal 1.6em/1.7em $codeStack;
+		margin-bottom: 30px;
+		padding: 0 0 15px;
+		}
+	.timeWrap{
+		background: linear-gradient(to right, rgba(white,.2), rgba($mainYellow,.2));
+		overflow: hidden;
+		}
+	time{
+		background: black;
+		color: gray;
+		font-weight: 700;
+		padding: 10px 15px;
+		}
+	p{
+		margin: 10px 15px;
+		&:last-child{margin-bottom: 30px;}
+		}
+	.readMore{
+		background: $mainRed;
+		color: white;
+		margin-left: 15px;
+		padding: 3px 5px;
+		text-decoration: none;
+		}
+	}
+
+
+
+//
+//******************************************************************************FOOTER	
+.footerWrap{
+	background: linear-gradient(45deg, black,$closeBlack);
+	}	
+.mainFooter{
+	@extend %container;
+	}
+	
+.mainFooter{
+	padding: 30px 20px 20px;
+	text-align: right;
+	.Eye4Logo{
+		margin-top: -30px;
+		margin-right: -100px;
+		}
+	.textContainer{
+		align-items: center;
+		display: flex;
+		flex-wrap: nonwrap;
+		margin-top: -30px;
+		padding-left: 120px;
+		width: 100%;
+		}
+	.copyright{
+		color: white;
+		flex: 1;
+		font: 200 normal 2em/1 "Oswald",Helvetica, Arial, sans-serif;
+		margin-left: 20px;
+		text-align: left;
+		text-transform: uppercase;
+		}
+	.footerNav{
+		flex: 2;
+		a{
+			color: gray;
+			font-size: 1.8em;
+			margin-left: 30px;
+			text-decoration: none;
+			&:hover{color: $mainRed;}
+			}
+		}
+	}
