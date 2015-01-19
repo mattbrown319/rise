@@ -1,0 +1,61 @@
+*, *+*{
+	box-sizing: border-box;
+	}
+body{
+	background: $mainRed;
+	display: flex;
+	font-size: 62.5%;
+	font: 400 normal 62.5%/1.7em $codeStack;
+	min-height: 100vh;
+	flex-direction: column;
+	}
+.mainContent{
+	flex: 1;
+	}
+	
+//CONTAINERS	
+%container{
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	margin: 0 auto;
+	max-width: 1000px;
+	padding: 0 30px;
+	position: relative;
+	}
+%clearfix {
+    &::after {
+	    content: "";
+	    display: block;
+	    clear: both;
+		}
+	}
+//SIZING
+.threeSeventh{
+	flex: 0 43.5%;
+	overflow: hidden;
+	}
+.fourSeventh{
+	flex: 0 56.5%;
+	}
+*[class$="Seventh"]:last-child{padding-left: 30px;}
+	
+//TYPOGRAPHY	
+h1{
+    color: white;
+	font: 200 normal 7em/1 "Oswald";
+	text-transform: uppercase;
+	}
+h2{
+	font: 400 normal 3em/1 "Oswald";
+	text-transform: uppercase;
+	color: white;
+	}
+h3{
+	font: 400 2em/1 "Source Code Pro";
+	color: $mainRed;
+	}
+.highlightBlack{color: black;}
+.highlightRed{color: $mainRed;}
+
+p b{font-weight: 700;}

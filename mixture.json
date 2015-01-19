@@ -1,0 +1,38 @@
+{
+  "convertHtml": {
+    "relativePaths": false
+  },
+  "customRubyPath": null,
+  "debug": false,
+  "domain": null,
+  "followLeader": false,
+  "lintScripts": false,
+  "modelSource": null,
+  "preprocessorLocations": [
+    "_sass", "css"
+  ],
+  "preprocessorScriptOutput": null,
+  "preprocessorStyleOutput": "css",
+  "projectDescription": "My project description",
+  "projectName": "reports",
+  "publishedId": null,
+  "serverHostname": null,
+  "serverPort": null,
+  "simpleModePartnerServer": null,
+  "templateDefaultLayout": "layout",
+  "templateDefaultPage": "index",
+  "templateDirectory": "templates",
+  "type": "simple",
+  "useCompass": false,
+  
+  "autoPrefixer": {
+  "active": true,
+  "sourceMap": false,
+  "browsers": [
+  	"last 2 version", 
+  	"> 1%", 
+  	"ie 8", 
+  	"ie 7"
+      ]
+    }
+}

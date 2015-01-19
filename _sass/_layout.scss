@@ -1,12 +1,8 @@
-//@import "normalize";
-@import "reset";
-@import "globals";
-
-
 //
 //******************************************************************************HEADER
 .receiveCode{
 	@extend %container;
+	align-items: center;
 	padding: 0;
 	}
 .receiveCode pre{
@@ -35,7 +31,19 @@
 		}
 	}
 
-	
+//
+//***************************************************************************NAVIGATION
+.topNav{
+    .menu-icon{display: none;}
+    a{
+        color: white;
+        font-size: 1.6em;
+        margin-left: 20px;
+        text-decoration: none;
+        &:hover{color: black;}
+        }
+    }
+
 //SECTIONS
 //
 //******************************************************************************RISE CALL
@@ -80,7 +88,7 @@
 		padding: 0 10px;
 		text-align: left;
 		&:focus{
-			background: rgba($mainYellow,.2);
+			background:url(../images/dots.png) repeat;
 			outline: none;
 			}
 		}
@@ -129,7 +137,7 @@
 .reportWrap{
 	background: url("../images/red-gears.png") center top no-repeat;
 	border-top: 5px solid rgba(white,.1);
-	padding: 50px 0 30px;
+	padding: 40px 0 30px;
 	h2{
 		text-align: center;
 		text-shadow: 0 1px 3px darken($mainRed,30%);
@@ -139,27 +147,37 @@
 .reportsIncoming{
 	@extend %container;
 	max-width: 710px;
-	article{
+	h3{
+    	font: 400 2em/1 "Oswald";
+    	margin-left: 15px;
+    	text-transform: uppercase;
+    	a{
+        	color: $mainRed;
+        	text-decoration: none;
+        	}
+	    }
+	li{
 		background: linear-gradient(45deg, rgba(black,.6),rgba($closeBlack,.8));
 		border-bottom: 5px solid black;
 		color: white;
-		font: 200 normal 1.6em/1.7em $codeStack;
 		margin-bottom: 30px;
 		padding: 0 0 15px;
 		}
 	.timeWrap{
 		background: linear-gradient(to right, rgba(white,.2), rgba($mainYellow,.2));
 		overflow: hidden;
+		margin-bottom: 15px;
 		}
 	time{
 		background: black;
 		color: gray;
-		font-weight: 700;
+		font: 700 normal 1.6em/1.7em $codeStack;
 		padding: 10px 15px;
 		}
 	p{
+    	font: 200 normal 1.4em/1.7em $codeStack;
 		margin: 10px 15px;
-		&:last-child{margin-bottom: 30px;}
+		&:last-child{margin-bottom: 0;}
 		}
 	.readMore{
 		background: $mainRed;
@@ -169,8 +187,6 @@
 		text-decoration: none;
 		}
 	}
-
-
 
 //
 //******************************************************************************FOOTER	
@@ -193,7 +209,7 @@
 		display: flex;
 		flex-wrap: nonwrap;
 		margin-top: -30px;
-		padding-left: 120px;
+		padding-left: 100px;
 		width: 100%;
 		}
 	.copyright{

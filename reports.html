@@ -1,0 +1,25 @@
+---
+layout: page
+title: reports
+subtitle: the latest from the front
+active: true
+permalink: /reports/
+---
+
+<div class="reportWrap">
+  <h2><span class="highlightBlack">//</span> Overview<span class="highlightBlack">//</span></h2>
+  <section class="reportsIncoming">
+      <ul class="post-list">
+        {% for post in site.posts %}
+          <li>
+            <div class="timeWrap"><time class="post-meta">{{ post.date | date: "%Y.%m.%-d" }}</time></div>
+            <h3>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h3>
+            <p>{{post.excerpt}}</p>
+          </li>
+        {% endfor %}
+      </ul>
+  </section>
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+</div><!-- reportWrap -->
