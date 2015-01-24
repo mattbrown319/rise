@@ -34,18 +34,23 @@
 //
 //***************************************************************************NAVIGATION
 .topNav{
-    .menu-icon{display: none;}
+	margin-right: 15px;
     a{
-        color: white;
+        color: $closeBlack;
         font-size: 1.6em;
         margin-left: 20px;
         text-decoration: none;
-        &:hover{color: black;}
+        &:hover, &.active{color: white;}
         }
     }
 .nav-collapse .navLinks{
 	display: -webkit-flex; display: -ms-flexbox; display: flex;
 	}
+ #menu-icon{
+	 display: none;
+	 svg{fill: white;}
+	 &.active svg{fill:black;}
+	 }
 
 //SECTIONS
 //
@@ -59,13 +64,20 @@
 .riseUp{
 	@extend %container;
 	padding: 15px 0 20px;
+	.postHeader &, .pageHeader &{display: block;}
 	aside{
 		color: white;
 		}
 	.formWrap{-webkit-align-self: center; align-self: center;}
 	}
 .riseUp .highlightRed{
-	animation: 100ms blinkNow ease-in infinite;
+	-webkit-animation: 3s blinkNow ease infinite;
+	animation: 3s blinkNow ease infinite;
+	}
+@keyframes blinkNow{
+	0% 	{color: $mainRed;}
+	50% 	{color: black;}
+	100% {color: $mainRed;}
 	}
 	
 //EMAIL FORM
@@ -139,6 +151,7 @@
 //*****************************************************************************REPORTS
 .reportWrap{
 	background: url("../images/red-gears.png") center top no-repeat;
+	background-size: 1132px;
 	border-top: 5px solid rgba(white,.1);
 	padding: 40px 0 30px;
 	h2{
@@ -157,6 +170,7 @@
     	a{
         	color: $mainRed;
         	text-decoration: none;
+        	&:hover{color: white;}
         	}
 	    }
 	li{
@@ -182,14 +196,31 @@
 		margin: 10px 15px;
 		&:last-child{margin-bottom: 0;}
 		}
-	.readMore{
+	.readLink{
 		background: $mainRed;
 		color: white;
+		font-size: 1.4em;
 		margin-left: 15px;
-		padding: 3px 5px;
+		padding: 3px 8px;
 		text-decoration: none;
+		&:hover{
+			background: black;
+			}
 		}
 	}
+
+//
+//******************************************************************************POSTS
+.reportContent{
+	max-width: 1000px;
+	margin: 40px auto 0;
+	p{
+		color: white;
+		font: 200 normal 1.6em/1.7em $codeStack;
+		margin-bottom: 20px;
+		max-width: 710px;
+		}
+	}	
 
 //
 //******************************************************************************FOOTER	
@@ -234,3 +265,5 @@
 			}
 		}
 	}
+	
+@import "media-queries";
