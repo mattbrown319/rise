@@ -3,21 +3,21 @@
 	}
 body{
 	background: $mainRed;
-	display: flex;
+	display: -webkit-flex; display: -ms-flexbox; display: flex;
 	font-size: 62.5%;
 	font: 400 normal 62.5%/1.7em $codeStack;
 	min-height: 100vh;
-	flex-direction: column;
+	-webkit-flex-direction: column; flex-direction: column;
 	}
 .mainContent{
-	flex: 1;
+	-webkit-flex: 1;-ms-flex: 1; flex: 1;
 	}
 	
 //CONTAINERS	
 %container{
-	display: flex;
-	flex-wrap: nowrap;
-	justify-content: space-between;
+	display: -webkit-flex; display: -ms-flexbox; display: flex;
+	-webkit-flex-wrap: nowrap; -ms-flex-wrap: nowrap; flex-wrap: nowrap;
+	-webkit-justify-content: space-between; justify-content: space-between;
 	margin: 0 auto;
 	max-width: 1000px;
 	padding: 0 30px;
@@ -32,11 +32,11 @@ body{
 	}
 //SIZING
 .threeSeventh{
-	flex: 0 43.5%;
+	-webkit-flex: 0 43.5%; -ms-flex: 0 43.5%; flex: 0 43.5%;
 	overflow: hidden;
 	}
 .fourSeventh{
-	flex: 0 56.5%;
+	-webkit-flex: 0 56.5%;-ms-flex: 0 56.5%; flex: 0 56.5%;
 	}
 *[class$="Seventh"]:last-child{padding-left: 30px;}
 	
