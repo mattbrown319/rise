@@ -2,7 +2,7 @@
 //******************************************************************************HEADER
 .receiveCode{
 	@extend %container;
-	align-items: center;
+	-webkit-align-items: center; align-items: center;
 	padding: 0;
 	}
 .receiveCode pre{
@@ -43,6 +43,9 @@
         &:hover{color: black;}
         }
     }
+.nav-collapse .navLinks{
+	display: -webkit-flex; display: -ms-flexbox; display: flex;
+	}
 
 //SECTIONS
 //
@@ -59,7 +62,7 @@
 	aside{
 		color: white;
 		}
-	.formWrap{align-self: center;}
+	.formWrap{-webkit-align-self: center; align-self: center;}
 	}
 .riseUp .highlightRed{
 	animation: 100ms blinkNow ease-in infinite;
@@ -78,11 +81,11 @@
 		border: 0px none;
 		}
 	input{
+		-webkit-flex: 1 100%; -ms-flex: 1 100%; flex: 1 100%;
 		background: none;
 		border: 1px solid rgba($mainYellow,.7);
 		border-radius: 2px;
 		color: white;
-		flex: 1 100%;
 		font: 400 1.2em/1.2em $codeStack;
 		height: 50px;
 		padding: 0 10px;
@@ -123,8 +126,8 @@
 		}
 	}
 .mc-field-group{
-	display: flex;
-	flex-wrap: nowrap;
+	display: -webkit-flex; display: -ms-flexbox; display: flex;
+	-webkit-flex-wrap: nowrap; -ms-flex-wrap: nowrap; flex-wrap: nowrap;
 	margin-bottom: 15px;
 	}
 .halvesGroup input{
@@ -205,23 +208,23 @@
 		margin-right: -100px;
 		}
 	.textContainer{
-		align-items: center;
-		display: flex;
-		flex-wrap: nonwrap;
+		display: -webkit-flex; display: -ms-flexbox; display: flex;
+		-webkit-flex-wrap: nowrap; -ms-flex-wrap: nowrap; flex-wrap: nowrap;
+		-webkit-align-items: center; align-items: center;
 		margin-top: -30px;
 		padding-left: 100px;
 		width: 100%;
 		}
 	.copyright{
+		-webkit-flex: 1;-ms-flex: 1; flex: 1;
 		color: white;
-		flex: 1;
 		font: 200 normal 2em/1 "Oswald",Helvetica, Arial, sans-serif;
 		margin-left: 20px;
 		text-align: left;
 		text-transform: uppercase;
 		}
 	.footerNav{
-		flex: 2;
+		-webkit-flex: 2;-ms-flex: 2; flex: 2;
 		a{
 			color: gray;
 			font-size: 1.8em;
