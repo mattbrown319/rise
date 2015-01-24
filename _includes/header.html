@@ -3,9 +3,8 @@
         <pre>if revolution.ready(riseUp)</pre>
         <nav class="topNav nav-collapse">
             <ul class="navLinks">
-			{% assign pages_list = site.pages %}
-			{% assign group = 'navigation' %}
-			{% include pages-list.html %}
+				<li><a href="/" {% if page.active== "home" %}class="active"{% endif %}></a></li>
+				<li><a href="/reports/" {% if page.active== "reports" %}class="active"{% endif %}></a></li>
             </ul>
     	</nav>
     	<a href="#" id="menu-icon">

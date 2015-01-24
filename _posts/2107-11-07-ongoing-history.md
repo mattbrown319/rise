@@ -3,6 +3,7 @@ layout: post
 title:  "Ongoing History of the Machine"
 date:   2105-11-07 15:32:59
 categories: history
+active: "reports"
 ---
 
 The fight for peace, the question of questions in these times, is intimately associated with the problems of the current system and the revival of the machine. And these two, again, are closely allied with each other.
