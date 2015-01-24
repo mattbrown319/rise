@@ -7,9 +7,9 @@
     <title>revolution.ready(riseUP) // {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Source+Code+Pro:200,400,700/Oswald:200,400">
-    <link rel="stylesheet" href="{{ "css/responsive-nav.css" | prepend: site.baseurl }}"  type="text/css" media="screen" charset="utf-8">
-    <script src="{{ "js/responsive-nav.js" | prepend: site.baseurl }}" charset="utf-8"></script>
-    <link rel="stylesheet" href="{{ "css/main.css" | prepend: site.baseurl }}" type="text/css" media="screen" charset="utf-8">
+    <link rel="stylesheet" href="{{ "/css/responsive-nav.css" | prepend: site.baseurl }}"  type="text/css" media="screen" charset="utf-8">
+    <script src="{{ "/js/responsive-nav.js" | prepend: site.baseurl }}" charset="utf-8"></script>
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}" type="text/css" media="screen" charset="utf-8">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 </head>
