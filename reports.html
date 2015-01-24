@@ -1,8 +1,8 @@
 ---
 layout: page
 title: reports
-subtitle: the latest from the front
-active: true
+subtitle: new from the front
+group: "navigation"
 permalink: /reports/
 ---
 
@@ -17,6 +17,7 @@ permalink: /reports/
               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h3>
             <p>{{post.excerpt}}</p>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="readLink">read</a>
           </li>
         {% endfor %}
       </ul>
