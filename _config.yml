@@ -3,8 +3,8 @@ title: revolution.ready(riseUp)
 email: support@eye4games.com
 description: > # this means to ignore newlines until "baseurl:"
   Get ready to rise up.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://rise.eye4games.com" # the base hostname & protocol for your site
+baseurl: "/rise/" # the subpath of your site, e.g. /blog/
+url: "http://eye4games.github.io" # the base hostname & protocol for your site
 twitter_username: Eye4Games
 github_username:  Eye4Games
 
