@@ -3,12 +3,12 @@ layout: default
 ---
 <div class="post">
 
-  <header class="post-header riseWrap">
+  <header class="pageHeader riseWrap">
       <section class="riseUp">
-          <h1 class="post-title">{{ page.title }} <span class="highlightRed">//</span></h1>
-          {% if page.subtitle %}
+	      {% if page.subtitle %}
             <h3>{{ page.subtitle }}</h3>
           {% endif %}
+          <h1 class="post-title">{{ page.title }} <span class="highlightRed">//</span></h1>
       </section>
   </header>
 
