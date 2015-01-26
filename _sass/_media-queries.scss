@@ -1,7 +1,21 @@
 @media screen and (max-width: 640px){
+	.receiveCode, .nav-collapse .navLinks{
+		display: block;
+		}
 	#menu-icon{
-		display: -webkit-flex; display: -ms-flexbox; display: flex;
-		-webkit-align-self: center; align-self: center;
-		margin-right: 15px;
+		display: inline-block;
+		float: right;
+		margin:12px 15px 0 0;
+		}
+	.topNav{margin: 0;}
+	.navLinks li{
+		background: linear-gradient(to bottom, rgba(darken($mainRed,20%),.6), rgba(darken($mainRed,20%),.2) );
+		height: auto;
+		a{
+			display: block;
+			padding: 15px;
+			margin: 0;
+			text-align: right;
+			}
 		}
 	}
