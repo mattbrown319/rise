@@ -44,7 +44,7 @@
         }
     }
 .nav-collapse .navLinks{
-	display: -webkit-flex; display: -ms-flexbox; display: flex;
+	@include flexbox();
 	}
  #menu-icon{
 	 display: none;
@@ -93,7 +93,7 @@
 		border: 0px none;
 		}
 	input{
-		-webkit-flex: 1 100%; -ms-flex: 1 100%; flex: 1 100%;
+		@include flex(1 100%);
 		background: none;
 		border: 1px solid rgba($mainYellow,.7);
 		border-radius: 2px;
@@ -138,8 +138,8 @@
 		}
 	}
 .mc-field-group{
-	display: -webkit-flex; display: -ms-flexbox; display: flex;
-	-webkit-flex-wrap: nowrap; -ms-flex-wrap: nowrap; flex-wrap: nowrap;
+	@include flexbox();
+	@include flexWrap(nowrap);
 	margin-bottom: 15px;
 	}
 .halvesGroup input{
@@ -153,6 +153,7 @@
 	background: url("../images/red-gears.png") center top no-repeat;
 	background-size: 1132px;
 	border-top: 5px solid rgba(white,.1);
+	@include flex(1);
 	padding: 40px 0 30px;
 	h2{
 		text-align: center;
@@ -239,15 +240,15 @@
 		margin-right: -100px;
 		}
 	.textContainer{
-		display: -webkit-flex; display: -ms-flexbox; display: flex;
-		-webkit-flex-wrap: nowrap; -ms-flex-wrap: nowrap; flex-wrap: nowrap;
+		@include flexbox();
+		@include flexWrap(nowrap);
 		-webkit-align-items: center; align-items: center;
 		margin-top: -30px;
 		padding-left: 100px;
 		width: 100%;
 		}
 	.copyright{
-		-webkit-flex: 1;-ms-flex: 1; flex: 1;
+		@include flex(1);
 		color: white;
 		font: 200 normal 2em/1 "Oswald",Helvetica, Arial, sans-serif;
 		margin-left: 20px;

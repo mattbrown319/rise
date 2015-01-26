@@ -8,6 +8,20 @@ $mainYellow: #fbf5b1;
 
 $codeStack: "Source Code Pro", Menlo, monospace;
 
+//MIXINS
+@mixin flexbox(){
+	display: -webkit-flex; display: -ms-flexbox; display: flex;
+	}
+@mixin flexDirection($direction){
+	-webkit-flex-direction: $direction; flex-direction: $direction;
+	}
+@mixin flexWrap($wrap){
+	-webkit-flex-wrap: $wrap; -ms-flex-wrap: $wrap; flex-wrap: $wrap;
+	}
+@mixin flex($flex) {
+	-webkit-flex: $flex;-ms-flex: $flex;flex: $flex;
+	}
+
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
