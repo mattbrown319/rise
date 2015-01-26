@@ -79,6 +79,11 @@
 	50% 	{color: black;}
 	100% {color: $mainRed;}
 	}
+@-webkit-keyframes blinkNow{
+	0% 	{color: $mainRed;}
+	50% 	{color: black;}
+	100% {color: $mainRed;}
+	}
 	
 //EMAIL FORM
 .riseForm{
