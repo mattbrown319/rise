@@ -10,7 +10,6 @@
 	color: white;
 	display: inline-block;
 	height: 40px;
-	margin-left: 40px;
 	padding: 10px;
 	position: relative;
 	&::before, &::after{
@@ -128,6 +127,7 @@
 		&:hover::after{border-color: saturate($mainRed,15%) transparent transparent saturate($mainRed,15%);}	
 		}
 	.button{
+		-webkit-appearance: none;
 		background: $mainRed;
 		border:none;
 		border-radius: 2px 0 0 2px;
@@ -217,6 +217,7 @@
 
 //
 //******************************************************************************POSTS
+.articleWrap{padding: 0 15px;}
 .reportContent{
 	max-width: 1000px;
 	margin: 40px auto 0;

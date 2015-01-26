@@ -32,6 +32,9 @@ body{
 	    clear: both;
 		}
 	}
+	
+.small{display: none;}
+
 //SIZING
 .threeSeventh{
 	@include flex(0 43.5%);
