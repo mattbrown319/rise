@@ -5,8 +5,8 @@ published: true
 
 
 
-The Perfect Tool 
 
+The Perfect Tool 
 
 I am ArciTech, every builder’s perfect tool. It says so on my box. 
 
@@ -27,3 +27,6 @@ Today I work as slowly as I can on the clock, but procrastination was not writte
 I am certain the next time they kill me will be the last.  My system cannot survive constant reincarnation.
 
 -ArciTech
+
+
+
