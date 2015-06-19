@@ -1,13 +1,11 @@
 ---
 published: true
 layout: post
-title:  "Ongoing History of the Machine"
+title:  "The Perfect Tool"
 date:   2105-06-18 15:32:59
 categories: history
 active: "reports"
----
-
-#The Perfect Tool 
+--- 
 
 I am ArciTech, every builder’s perfect tool. It says so on my box. 
 
@@ -27,7 +25,7 @@ Today I work as slowly as I can on the clock, but procrastination was not writte
 
 I am certain the next time they kill me will be the last.  My system cannot survive constant reincarnation.
 
--ArciTech
+—ArciTech
 
 
 
