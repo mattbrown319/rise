@@ -1,12 +1,13 @@
 ---
 published: true
+layout: post
+title:  "Ongoing History of the Machine"
+date:   2105-06-18 15:32:59
+categories: history
+active: "reports"
 ---
 
-
-
-
-
-The Perfect Tool 
+#The Perfect Tool 
 
 I am ArciTech, every builder’s perfect tool. It says so on my box. 
 
