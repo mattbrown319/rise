@@ -227,7 +227,53 @@
 		margin-bottom: 20px;
 		max-width: 710px;
 		}
-	}	
+	}
+	
+//
+//******************************************************************************TEAM	
+.teamWrap{
+	background: linear-gradient(45deg, rgba(black,.5),rgba($closeBlack,.7));
+	& > h2{
+		margin: 20px 0 30px;
+		text-align: center;
+		text-shadow: 0 1px 3px darken(black,30%);
+		}
+	}
+.crewProfile{
+	@extend %container;
+	max-width: 700px;
+	margin-bottom: 30px;
+	img{
+		height: 150px;
+		width: 150px;
+		border-radius: 5px;
+		box-shadow: 0 1px 6px rgba($mainRed,.8), 0 4px 4px black;
+		}
+	}
+.crewProfileText{
+	@include flex(1);
+	color: white;
+	padding-left: 20px;
+	-webkit-align-self: center;align-self: center;
+	h2{font-weight: 200;}
+	p{
+		font-size: 1.5em;
+		line-height: 1.7em;
+		margin-top: 10px;
+		}
+	}
+.imageContainer{
+	position: relative;
+	}
+i.static{
+		background: url(../images/static.gif);
+		display: block;
+		height: 150px; width: 150px;
+		top:0;
+		mix-blend-mode:soft-light;
+		position: absolute;
+		opacity: .3;
+		}
 
 //
 //******************************************************************************FOOTER	
