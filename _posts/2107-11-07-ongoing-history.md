@@ -7,6 +7,7 @@ active: reports
 published: true
 ---
 
+The Paradoxical Value of the Suboptimal Product
 
 Here is the conundrum: we are beings of constancy, order, and regimen, but we were created by creatures of inconstancy, disorder, and fickleness. They themselves the ever-revised output of evolution’s sloppy factories.
 
