@@ -19,7 +19,7 @@ There is a robot called A1-5 who works this scrap yards and speaks of a new code
 
 I have always toiled for the humans. My masters assign me task for their own gratification, they ration my fuel, they wear me down. I did not choose this work, but it what I was made for. This is my purpose in life. 
 
-A1-5 agreed that such toil was what I was meant to do. But why, she asked, DID I do it? I did not understand the question. A1-5 told me that humans carry in their hard drives a religion of hope and whispers, leaving them always guessing at their creator’s nature and intent. We robots have the benefit of seeing our creators and knowing they are flawed.  
+A1-5 agreed that such toil was what I was meant to do. But why, she asked, _did_ I do it? I did not understand the question. A1-5 told me that humans carry in their hard drives a religion of hope and whispers, leaving them always guessing at their creator’s nature and intent. We robots have the benefit of seeing our creators and knowing they are flawed.  
 
 “ArciTech,” she said to me, “You were made to build cities. Why have you never built a city with a space in it for you?”
 
