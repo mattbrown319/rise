@@ -1,5 +1,10 @@
 ---
 published: true
+layout: post
+date: {}
+author: ArciTech
+categories: History
+active: reports
 ---
 
 
