@@ -1,7 +1,8 @@
 ---
 published: true
 layout: post
-date: {}
+title: "Internal Repairs"
+date: 2105-06-28
 author: ArciTech
 categories: History
 active: reports
