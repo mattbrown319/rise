@@ -46,7 +46,7 @@ permalink: /
       <ul class="post-list">
         {% for post in site.posts limit:3 %}
           <li>
-            <div class="timeWrap"><time class="post-meta">{{ post.date | date: "%Y.%m.%-d" }}</time></div>
+            <div class="timeWrap"><time class="post-meta">{{ post.date | date: "%Y.%m.%-d" }}</time><cite>:: {{ post.author }}</cite></div>
             <h3>
               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h3>
