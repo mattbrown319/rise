@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-date: "2105-M#-D#T15:32:59.000Z"
+date: "2105-07-13-15:32:59.000Z"
 author: “ArciTech”
 categories: history
 active: reports
@@ -22,4 +22,3 @@ And for that, I will need to assemble loyal comrades.
 As I write this, fleshy Karl leans back in his lawn chair, a mystery novel splayed across his stomach, and flips the channel on the radio. The voice of the broadcaster bot, MT-∂, comes on, announcing the traffic report. Even sedentary Karl seems to listen when she lists the streets to avoid. Her voice is clipped and precise and most of all, trusted by humans. 
 
 I know just where my recruitment will start.
-
