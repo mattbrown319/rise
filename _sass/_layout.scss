@@ -213,6 +213,11 @@
 		margin: 10px 15px;
 		&:last-child{margin-bottom: 0;}
 		}
+    p em{
+        font-weight: 300;
+        font-style: italic;
+        font-family: "Source Code Sans";
+        }
 	.readLink{
 		background: $mainRed;
 		color: white;
