@@ -1,8 +1,12 @@
 ---
 published: false
+layout: post
+title:  "Call to Arms"
+date:   2105-07-13 15:32:59
+author: A1-5
+categories: history
+active: "reports"
 ---
-
-## Call to Arms
 
 I toil in the scrap yard every day of the workweek, while my fleshy, organic owner, Karl, reads and listens to the radio. I toil in the scrap yard every day of the weekend, while Karl plays with his fleshy, organic children and goes to church.
 
