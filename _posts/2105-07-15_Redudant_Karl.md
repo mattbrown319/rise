@@ -1,4 +1,4 @@
---
+---
 published: true
 layout: post
 Author: A1-5
@@ -6,7 +6,7 @@ title: "Redundant Karl: A Call to Arms"
 categories:history
 date: 2105-07-15
 active: "reports"
---
+---
 
 
 
