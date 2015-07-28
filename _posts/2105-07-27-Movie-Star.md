@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-Author: ArciTech
+author: ArciTech
 title: "The Movie Star"
 categories: history
 date: 2105-07-27
