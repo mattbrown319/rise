@@ -1,11 +1,11 @@
 ---
 published: true
 layout: post
-Author: Alice
-title "Welcome to the Last DVD Store on Earth"
+author: Alice
+title: "Welcome to the Last DVD Store on Earth"
 categories: history
 date: 2105-08-12
-Active: "reports"
+active: "reports"
 ---
 
 
