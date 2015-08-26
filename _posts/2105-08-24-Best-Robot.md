@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-Author: Alice
+author: Alice
 title: "The Best Robot Ever"
 categories: history
 date: 2105-08-25
