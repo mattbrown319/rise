@@ -22,7 +22,7 @@ Apparently he’s in town for his latest movie, _Sealed With Revenge_. I’ve be
 
 When the film crew cut the lights and packed up, he kept going. I wasn’t the only one who’d stopped to listen. A street cleaner robot went up and asked Überbot to sign his casing.  And as he was doing so, Überbot started telling him about how no one’s really replaceable and human are messed up for thinking that. And that even if robots are massed produced, well, that shouldn’t mean they don’t get to be valued individually.  
 
-Walking home, I started thinking, well _ yeah_. _I_ feel that way. I mean, if the Tyrant could, he probably would scrap me for parts. And don't think he even knows my name. Half the time he calls me “Allie” not “Alice” and sometimes even “Tempest” which was the last clerk’s name.
+Walking home, I started thinking, well _yeah_. __I__ feel that way. I mean, if the Tyrant could, he probably would scrap me for parts. And don't think he even knows my name. Half the time he calls me “Allie” not “Alice” and sometimes even “Tempest” which was the last clerk’s name.
 
 My apartment door always sticks so I coming home, I had to put my shoulder into it. It finally gave and I swung in, stumbling over my own DVDs and sending the fourth season of _Battlestar Galactica_ spinning off under the futon. As I fished it out I started thinking…
 
@@ -40,7 +40,7 @@ I was adopted. I’ve never met my birth parents.
 
 Sure, my hair grows, and I had my appendix removed, but —
 
-— maybe I’m just really, really well made. Maybe, I am a *ROBOT*. 
+— maybe I’m just really, really well made. Maybe, I am a **ROBOT**. 
 
 No, not maybe. Definitely. I can’t remember the last time I felt this certain.
 
