@@ -29,4 +29,5 @@ Then, two nights ago, the post office rented me out. I was assigned as an extra 
 All these thoughts were whirring in my processor, and I decided I wanted to see where the post office means to send me. So today, I wheeled to the scrap yard. And no, I did not like what I saw there. The ripped apart carcasses of robots, the dirt, the rust, the reselling of pieces of the dead. So when this A1-5 robot, acting so sly, asked me to take a letter with no return address to the radio station, I found that I didn’t care. I put it in my satchel.
 
 And now the radio tower looms high as I wheel up, thinking how these humans are a problem. They have faulty minds, an error in how they think. A yap-yapping dog rushes me when I go up the drive, as if he knows I carry something illegal. I put my hand to his face and push him back -- it is useful, to have these many arms -- and slide the letter into the slot. The yapping dog bites my fingers and I think, after the humans, next we solve the dog problem. 
+
 — Mr. PostmanTM
