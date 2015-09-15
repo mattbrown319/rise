@@ -6,7 +6,7 @@ group: "reports"
 
   <header class="postHeader riseWrap">
 	  <section class="riseUp">
-		  <h3 class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</h3>
+		  <h3 class="post-meta">{{ page.date | date: "%b %-d, %Y" }} • {% if page.author %}{{ page.author }}{% endif %} • {% if page.meta %}{{ page.meta }}{% endif %}</h3>
 		  <h1 class="post-title">{{ page.title }}</h1>
 	  </section>
   </header>
