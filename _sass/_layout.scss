@@ -47,6 +47,8 @@
 	}
  #menu-icon{
 	 display: none;
+	 position: relative;
+	 z-index: 2;
 	 svg{fill: white;}
 	 &.active svg{fill:$mainBlack;}
 	 }
