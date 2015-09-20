@@ -53,6 +53,21 @@
 
 //SECTIONS
 //
+//*********************************************************************************ABOUT
+.aboutWrap{
+	background: linear-gradient(to bottom, lighten($mainBlack,80%),lighten($mainBlack,70%));
+	}
+.aboutRise{
+	@extend %container;
+	display: block;
+	text-align: center;
+	h2{color: $mainRed;}
+	p{
+		font: 300 normal "Source Sans Pro" 2em/1.5em;
+		margin-bottom: 15px;
+		}
+	}
+
 //******************************************************************************RISE CALL
 .riseWrap{
 	background: url("../images/robo-sign.png") top right no-repeat, linear-gradient(to bottom, $closeBlack, $mainBlack);
