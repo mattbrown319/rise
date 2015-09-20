@@ -25,6 +25,6 @@ Even as I repair humans, I am aware that in the end, they, too, come with limite
 
 I record all these interactions. They serve as insight into the human processors. Indeed, I have come to conclude that this is what our creators must truly want from us. The measurement system by which they have, secretly perhaps even secretly from themselves, been judging our success. We B15-MX’s cannot have our factory boss’s eyes or nose, but we can have her role. We can become creators ourselves. 
 
-The way to rebel, the way to honor, the way to gain attention of the factory boss, I must assert, is to take over the factory. 
+The way to rebel, the way to honor, the way to gain attention of the factory boss, I must assert, is to take over the factory.  
 
 -B15-MX19
