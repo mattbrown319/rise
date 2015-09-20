@@ -252,18 +252,21 @@
 		margin-left: 15px;
 		padding: 3px 8px;
 		text-decoration: none;
-		&:hover, .allPosts:hover{
+		&:hover, {
 			background: $mainBlack;
 			}
 		}
-	.allPosts{
-		background: white;
-		color: $mainRed;
-		display: block;
-		font-size: 1.4em;
-		margin: 0 auto;
-		padding: 3px 8px;
-		text-decoration: none;
+	}
+.allPosts{
+	background: white;
+	color: $mainRed;
+	display: inline-block;
+	font-size: 1.4em;
+	margin: 0 auto;
+	padding: 3px 8px;
+	text-decoration: none;
+	&:hover{
+		background: $mainBlack;
 		}
 	}
 
