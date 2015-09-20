@@ -6,7 +6,7 @@
 	padding: 0;
 	}
 .receiveCode pre{
-	background: black;
+	background: $mainBlack;
 	color: white;
 	display: inline-block;
 	height: 40px;
@@ -15,7 +15,7 @@
 	&::before, &::after{
 		position: absolute;
 		content: "";
-		border: 20px solid black;
+		border: 20px solid $mainBlack;
 		height: 0;
 		width: 0;
 		top: 0;
@@ -25,7 +25,7 @@
 		border-color:  transparent $closeBlack $closeBlack transparent;
 		}
 	&::after{
-		border-color: black transparent transparent black;
+		border-color: $mainBlack transparent transparent $mainBlack;
 		right: -40px;
 		}
 	}
@@ -48,14 +48,14 @@
  #menu-icon{
 	 display: none;
 	 svg{fill: white;}
-	 &.active svg{fill:black;}
+	 &.active svg{fill:$mainBlack;}
 	 }
 
 //SECTIONS
 //
 //******************************************************************************RISE CALL
 .riseWrap{
-	background: url("../images/robo-sign.png") top right no-repeat, linear-gradient(to bottom, $closeBlack, black);
+	background: url("../images/robo-sign.png") top right no-repeat, linear-gradient(to bottom, $closeBlack, $mainBlack);
 	background-size: contain;
 	border-top: 5px solid rgba(white,.2);
 	padding: 0 15px;
@@ -75,12 +75,12 @@
 	}
 @keyframes blinkNow{
 	0% 	{color: $mainRed;}
-	50% 	{color: black;}
+	50% 	{color: $mainBlack;}
 	100% {color: $mainRed;}
 	}
 @-webkit-keyframes blinkNow{
 	0% 	{color: $mainRed;}
-	50% 	{color: black;}
+	50% 	{color: $mainBlack;}
 	100% {color: $mainRed;}
 	}
 	
@@ -118,7 +118,7 @@
 		position: relative;
 		&::after{
 			content: "";
-			border: 25px solid black;
+			border: 25px solid $mainBlack;
 			border-color:darken($mainRed,10%) transparent transparent darken($mainRed,10%);
 			position: absolute;
 			top:0;
@@ -135,11 +135,11 @@
 		margin-bottom: 0;
 		width: 100%;
 		&:focus{background: darken($mainRed,10%);}
-		&:hover{background: saturate($mainRed,10%); text-shadow: 0 1px 2px black;}
+		&:hover{background: saturate($mainRed,10%); text-shadow: 0 1px 2px $mainBlack;}
 		}
 	.buttonWrap:hover .button, .button:hover{
 		background: linear-gradient(45deg, darken($mainRed,10%), saturate($mainRed,10%));
-		text-shadow: 0 1px 2px black;
+		text-shadow: 0 1px 2px $mainBlack;
 		}
 	}
 .mc-field-group{
@@ -187,7 +187,7 @@
 	    }
 	li{
 		background: linear-gradient(45deg, rgba(black,.6),rgba($closeBlack,.8));
-		border-bottom: 5px solid black;
+		border-bottom: 5px solid $mainBlack;
 		color: white;
 		margin-bottom: 30px;
 		padding: 0 0 15px;
@@ -203,7 +203,7 @@
 			}
 		}
 	time{
-		background: black;
+		background: $mainBlack;
 		color: gray;
 		font: 700 normal 1.6em/1.7em $codeStack;
 		padding: 10px 15px;
@@ -227,7 +227,7 @@
 		padding: 3px 8px;
 		text-decoration: none;
 		&:hover{
-			background: black;
+			background: $mainBlack;
 			}
 		}
 	}
@@ -249,11 +249,11 @@
 //
 //******************************************************************************TEAM	
 .teamWrap{
-	background: linear-gradient(45deg, rgba(black,.5),rgba($closeBlack,.7));
+	background: linear-gradient(45deg, rgba($mainBlack,.5),rgba($closeBlack,.7));
 	& > h2{
 		margin: 20px 0 30px;
 		text-align: center;
-		text-shadow: 0 1px 3px darken(black,30%);
+		text-shadow: 0 1px 3px darken($mainBlack,30%);
 		}
 	}
 .crewProfile{
@@ -264,7 +264,7 @@
 		height: 150px;
 		width: 150px;
 		border-radius: 5px;
-		box-shadow: 0 1px 6px rgba($mainRed,.8), 0 4px 4px black;
+		box-shadow: 0 1px 6px rgba($mainRed,.8), 0 4px 4px $mainBlack;
 		}
 	}
 .crewProfileText{
@@ -295,7 +295,7 @@ i.static{
 //
 //******************************************************************************FOOTER	
 .footerWrap{
-	background: linear-gradient(45deg, black,$closeBlack);
+	background: linear-gradient(45deg, $mainBlack,$closeBlack);
 	}	
 .mainFooter{
 	@extend %container;
