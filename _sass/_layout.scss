@@ -58,6 +58,8 @@
 //*********************************************************************************ABOUT
 .aboutWrap{
 	background: linear-gradient(to bottom, lighten($mainBlack,80%),lighten($mainBlack,70%));
+	border-top: 5px solid rgba(white,.2);
+	padding: 0 15px;
 	}
 .aboutRise{
 	@extend %container;
@@ -250,9 +252,18 @@
 		margin-left: 15px;
 		padding: 3px 8px;
 		text-decoration: none;
-		&:hover{
+		&:hover, .allPosts:hover{
 			background: $mainBlack;
 			}
+		}
+	.allPosts{
+		background: white;
+		color: $mainRed;
+		display: block;
+		font-size: 1.4em;
+		margin: 0 auto;
+		padding: 3px 8px;
+		text-decoration: none;
 		}
 	}
 

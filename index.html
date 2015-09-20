@@ -48,11 +48,11 @@ permalink: /
 </div><!-- riseWrap -->
 
 <div class="reportWrap">
-  <h2><span class="highlightBlack">//</span> Recent Reports <span class="highlightBlack">//</span></h2>
+  <h2><span class="highlightBlack">//</span> Latest Report <span class="highlightBlack">//</span></h2>
   <h3 class="updateSchedule">updates every other week</h3>
   <section class="reportsIncoming">
       <ul class="post-list">
-        {% for post in site.posts limit:3 %}
+        {% for post in site.posts limit:1 %}
           <li>
             <div class="timeWrap"><time class="post-meta">{{ post.date | date: "%Y.%m.%-d" }}</time><cite>_{{ post.author }}</cite></div>
             <h3>
@@ -62,7 +62,8 @@ permalink: /
             <a href="{{ post.url | prepend: site.baseurl }}" class="readLink">read</a>
           </li>
         {% endfor %}
-      </ul>
+        <a href="http://rise.eye4games.com/reports/" class="allPosts">read all reports</a>
+      </ul> 
   </section>
   <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 </div><!-- reportWrap -->
