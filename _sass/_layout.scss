@@ -62,12 +62,16 @@
 	display: block;
 	padding: 15px 0 20px;
 	text-align: center;
-	h2{color: $mainRed;}
+	h2{
+		color: $mainRed;
+		margin-bottom: 15px;
+		}
 	p{
 		font-size: 2em;
 		font-weight: 300;
 		line-height: 1.5em;
 		margin-bottom: 15px;
+		&:last-child{margin: 0;}
 		}
 	}
 
