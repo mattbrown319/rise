@@ -71,8 +71,9 @@
 		margin-bottom: 15px;
 		}
 	p{
+		font: 200 normal 2em/1.5em "Titillium";
 		font-size: 2em;
-		font-weight: 300;
+		font-weight: 200;
 		line-height: 1.5em;
 		margin-bottom: 15px;
 		&:last-child{margin: 0;}
@@ -261,10 +262,11 @@
 	}
 .allPosts{
 	background: white;
+	border-radius: 2px;
 	color: $mainRed;
 	display: inline-block;
-	font-size: 2em;
-	padding: 5px 10px;
+	font-size: 1.7em;
+	padding: 10px;
 	text-decoration: none;
 	&:hover{
 		background: $mainBlack;
