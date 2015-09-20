@@ -1,5 +1,5 @@
 # Site settings
-title: Rise of the Robotariat
+title: revolution.ready(riseUp)
 email: support@eye4games.com
 description: > # this means to ignore newlines until "baseurl:"
   Get ready to rise up.
@@ -9,6 +9,3 @@ github_username:  Eye4Games
 
 # Build settings
 markdown: kramdown
-
-#plugins
- gems: [jekyll-authors, jekyll-assets]
