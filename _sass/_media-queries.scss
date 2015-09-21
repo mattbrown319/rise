@@ -46,7 +46,9 @@
 }
 
 @media screen and (max-width: 510px){
-	
+	.postHeader h1{
+		font-size: 10vw;
+		}
 	//MAIL
 	.halvesGroup{
 		@include flexWrap(wrap);
