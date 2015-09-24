@@ -1,0 +1,32 @@
+---
+layout: page
+title: Mr.Postman™
+subtitle: reports from
+group: "navigation"
+active: "reports"
+permalink: /authors/mrpostman/
+---
+
+<div class="reportWrap">
+  <section class="authorSpace">
+      <p><b>Mr.Postman™</b> was once the latest and greatest in letter-carrier technology. That was 25 years ago. After decades of loyally delivering mail, Mr.Postman™ has learned that the Post Master plans to replace him with a newer model.</p>
+  </section>
+  <section class="reportsIncoming">
+      <ul class="post-list">
+        {% for post in site.posts %}
+            {% if post.author == "Mr.Postman™" %}
+          <li>
+            <div class="timeWrap"><time class="post-meta">{{ post.date | date: "%Y.%m.%-d" }}</time><cite>_{{ post.author }}</cite></div>
+            <h3>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h3>
+            <p>{{post.excerpt}}</p>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="readLink">read</a>
+          </li>
+          {% else %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+  </section>
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+</div><!-- reportWrap -->
