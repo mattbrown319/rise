@@ -231,6 +231,7 @@
 			font-weight: 600;
 			margin-left: 15px;
 			text-decoration: none;
+			&:hover{color: $mainRed;}
 			}
 		}
 	time{
@@ -269,6 +270,7 @@
     a{
         color: $mainRed;
         text-decoration: none;
+        &:hover{color: $mainYellow;}
         }
     }
 .allPosts{
