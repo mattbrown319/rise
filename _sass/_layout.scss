@@ -263,6 +263,10 @@
 .post-meta{
     position: relative;
     z-index: 2;
+    a{
+        color: $mainYellow;
+        text-decoration: none;
+        }
     }
 .allPosts{
 	background: white;
