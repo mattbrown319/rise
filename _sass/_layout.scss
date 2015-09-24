@@ -279,10 +279,12 @@
 //
 //***************************************************************************AUTHORS
 .authorSpace{
-    background: linear-gradient(45deg,rgba( lighten($mainBlack,80%),.6),rgba(lighten($mainBlack,70%),.8));
+    @extend %container;
+    background: linear-gradient(45deg,rgba( lighten($mainBlack,80%),.8),rgba(lighten($mainBlack,70%),.9));
 	border-bottom: 5px solid lighten($mainBlack,80%);
 	color: $mainBlack;
 	margin-bottom: 30px;
+	max-width: 710px;
 	padding: 10px 15px;
 	text-align: left;
 	p{
