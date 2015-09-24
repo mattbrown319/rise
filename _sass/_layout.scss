@@ -280,15 +280,15 @@
 //***************************************************************************AUTHORS
 .authorSpace{
     @extend %container;
-    background: linear-gradient(45deg,rgba( lighten($mainBlack,80%),.8),rgba(lighten($mainBlack,70%),.9));
+    background: linear-gradient(45deg,rgba( lighten($mainBlack,80%),.9),rgba(lighten($mainBlack,70%),.95));
 	border-bottom: 5px solid lighten($mainBlack,80%);
 	color: $mainBlack;
 	margin-bottom: 30px;
-	max-width: 710px;
-	padding: 10px 15px;
+	max-width: 650px;
+	padding: 15px;
 	text-align: left;
 	p{
-    	font: 200 normal 1.7em/1.9em "Titillium";
+    	font: 200 normal 1.8em/1.3em "Titillium";
     	b{color: $mainRed; font-weight: 700;}
 	    }
     }
