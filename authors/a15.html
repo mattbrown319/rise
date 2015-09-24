@@ -1,17 +1,18 @@
 ---
 layout: page
-title: reports
-subtitle: new from the front
+title: a1-5
+subtitle: reports from
 group: "navigation"
 active: "reports"
 permalink: /authors/a15/
 ---
 
 <div class="reportWrap">
-  <h2><span class="highlightBlack">//</span> All Reports <span class="highlightBlack">//</span></h2>
+  <h2><span class="highlightBlack">//</span> All Reports from A1-5 <span class="highlightBlack">//</span></h2>
   <section class="reportsIncoming">
       <ul class="post-list">
-        {% for post in site.posts and post.author =="A1-5" %}
+        {% for post in site.posts and post.author == "A1-5" %}
+            {% if post.author == "A1-5" %}
           <li>
             <div class="timeWrap"><time class="post-meta">{{ post.date | date: "%Y.%m.%-d" }}</time><cite>_{{ post.author }}</cite></div>
             <h3>
@@ -20,6 +21,8 @@ permalink: /authors/a15/
             <p>{{post.excerpt}}</p>
             <a href="{{ post.url | prepend: site.baseurl }}" class="readLink">read</a>
           </li>
+          {% else %}
+          {% endif %}
         {% endfor %}
       </ul>
   </section>
