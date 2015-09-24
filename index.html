@@ -54,7 +54,7 @@ permalink: /
       <ul class="post-list">
         {% for post in site.posts limit:1 %}
           <li>
-            <div class="timeWrap"><time class="post-meta">{{ post.date | date: "%Y.%m.%-d" }}</time><cite><a href="authors/{{page.author | downcase | remove:'-' | remove:'™' | remove: '.'}}/">_{{ post.author }}</a></cite></div>
+            <div class="timeWrap"><time class="post-meta">{{ post.date | date: "%Y.%m.%-d" }}</time><cite><a href="authors/{{post.author | downcase | remove:'-' | remove:'™' | remove: '.'}}/">_{{ post.author }}</a></cite></div>
             <h3>
               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h3>
