@@ -225,10 +225,12 @@
 		background: linear-gradient(to right, rgba(white,.2), rgba($mainYellow,.2));
 		overflow: hidden;
 		margin-bottom: 15px;
-		cite{
+		cite a{
+    		color: white;
 			font-size: 1.5em;
 			font-weight: 600;
 			margin-left: 15px;
+			text-decoration: none;
 			}
 		}
 	time{
@@ -261,10 +263,11 @@
 		}
 	}
 .post-meta{
+    color: gray;
     position: relative;
     z-index: 2;
     a{
-        color: $mainYellow;
+        color: $mainRed;
         text-decoration: none;
         }
     }
