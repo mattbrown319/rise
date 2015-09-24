@@ -16,7 +16,7 @@ permalink: /authors/arcitech/
         {% for post in site.posts %}
             {% if post.author == "ArciTech" %}
           <li>
-            <div class="timeWrap"><time class="post-meta">{{ post.date | date: "%Y.%m.%-d" }}</time><cite><a href="{{site.baseurl}}/authors/{{page.author | downcase | remove:'-' | remove:'™' | remove: '.'}}/">_{{ post.author }}</a></cite></div>
+            <div class="timeWrap"><time class="post-meta">{{ post.date | date: "%Y.%m.%-d" }}</time><cite><a href="{{site.baseurl}}/authors/{{post.author | downcase | remove:'-' | remove:'™' | remove: '.'}}/">_{{ post.author }}</a></cite></div>
             <h3>
               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h3>
