@@ -1,0 +1,32 @@
+---
+layout: page
+title: Alice
+subtitle: reports from
+group: "navigation"
+active: "reports"
+permalink: /authors/alice/
+---
+
+<div class="reportWrap">
+  <section class="authorSpace">
+      <p><b>Alice “Probably a Robot” Smith</b> is a Film Studies major and lowly clerk at the nation’s last DVD store. Her favorite flicks are sci-fis about robots who have no idea what they are, and after countless re-watchings she’s started to wonder if maybe they’re not just stories… Sure Alice <i>looks<i> human but that just means her makers were really, really good, right?</p>
+  </section>
+  <section class="reportsIncoming">
+      <ul class="post-list">
+        {% for post in site.posts %}
+            {% if post.author == "Alice" %}
+          <li>
+            <div class="timeWrap"><time class="post-meta">{{ post.date | date: "%Y.%m.%-d" }}</time><cite>_{{ post.author }}</cite></div>
+            <h3>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h3>
+            <p>{{post.excerpt}}</p>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="readLink">read</a>
+          </li>
+          {% else %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+  </section>
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+</div><!-- reportWrap -->
