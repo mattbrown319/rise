@@ -1,0 +1,32 @@
+---
+layout: page
+title: a1-5
+subtitle: reports from
+group: "navigation"
+active: "reports"
+permalink: /authors/mt∂/
+---
+
+<div class="reportWrap">
+  <section class="authorSpace">
+      <p><b>MT-∂</b> was made to receive and analyze data and package it into hourly news broadcasts. She’s the face, voice, and, well, pretty much all, of city radio.</p>
+  </section>
+  <section class="reportsIncoming">
+      <ul class="post-list">
+        {% for post in site.posts and post.author == "A1-5" %}
+            {% if post.author == "MT-∂" %}
+          <li>
+            <div class="timeWrap"><time class="post-meta">{{ post.date | date: "%Y.%m.%-d" }}</time><cite><a href="{{site.baseurl}}/authors/{{post.author | downcase | remove:'-' | remove:'™' | remove: '.'}}/">_{{ post.author }}</a></cite></div>
+            <h3>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h3>
+            <p>{{post.excerpt}}</p>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="readLink">read</a>
+          </li>
+          {% else %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+  </section>
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+</div><!-- reportWrap -->
