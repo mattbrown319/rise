@@ -1,6 +1,6 @@
 ---
-published:true
-layout:post
+published: true
+layout: post
 author: Electric Eye
 title: "Small Talk, Big Trouble"
 categories: history
