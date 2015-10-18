@@ -1,0 +1,32 @@
+---
+layout: page
+title: Electric Eye
+subtitle: reports from
+group: "navigation"
+active: "reports"
+permalink: /authors/electriceye/
+---
+
+<div class="reportWrap">
+  <section class="authorSpace">
+      <p><b>Electric Eye</b> is a tiny bot owned by the Espionage Department. After countless hours spying on politicians, she has learned a lot about corruption and bad jokes.</p>
+  </section>
+  <section class="reportsIncoming">
+      <ul class="post-list">
+        {% for post in site.posts%}
+            {% if post.author == "Electric Eye" %}
+          <li>
+            <div class="timeWrap"><time class="post-meta">{{ post.date | date: "%Y.%m.%-d" }}</time><cite><a href="{{site.baseurl}}/authors/{{post.author | downcase | remove:'-' | remove:'™' | remove: '.' | remove:' '}}/">_{{ post.author }}</a></cite></div>
+            <h3>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h3>
+            <p>{{post.excerpt}}</p>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="readLink">read</a>
+          </li>
+          {% else %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+  </section>
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+</div><!-- reportWrap -->
