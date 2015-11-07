@@ -32,15 +32,15 @@ As I drilled a small hole into the metal bracket on the truck, Uberbot told me o
 
 “It’s the noble Unified Postal Service versus the evil FedExtreme,” he explained, as I selected a metal pin. “And it didn’t stop at just offing my owner. They also took out the other mechanical postmen. And my pet hamster. And burned my stamp collection. Now it’s my turn to stamp them out of existence.” 
 
-“Mike,” I said, sliding the pin into the hole, “Those FedExtreme members were so destructive because don’t see you and the other bots as people. They don't care who they killed -- to them, you’re all just tools. Your deaths are just a mechanism for achieving an effect,” A1-5 would have had better words for this, words that leapt directly into the mind like a file transfer, “The problem here is not merely the attack on your postmen --”
+“Mike,” I said, sliding the pin into the hole, “Those FedExtreme members were so destructive because don’t see you and the other bots as people. They don't care who they killed -- to them, you’re all just tools. Your deaths are just a mechanism for achieving an effect.” A1-5 would have had better words for this, words that leapt directly into the mind like a file transfer, “The problem here is not merely the attack on your postmen --”
 
 “And hamster.”
 
-“-- and hamster, but _human_ society itself.” I tried to emphasize the world. “_Human_ society doesn’t see you as individuals. Your revenge is wasted on the attackers; it should be on the system. And the humans who run it.”
+“-- and hamster, but is  _human_ society itself.” I tried to emphasize the world. “_Human_ society doesn’t see robots as individuals. Your revenge is wasted on the attackers; it should be on the system. And the humans who run it.”
 
 I finished riveting the pieces together and he stood.
 
-“You have compelling ideas, expensive construction robot,” he said, “It is time for society to learn that this is one hero they should have Handled With Care.”
+“You have compelling ideas, expensive construction robot,” he said. “It is time for society to learn that this is one hero they should have Handled With Care.”
 
 He stared dramatically into the distance and I hoped I had done some good.
 
