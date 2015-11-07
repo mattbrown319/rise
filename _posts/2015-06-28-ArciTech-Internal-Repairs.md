@@ -12,9 +12,9 @@ active: reports
 
 Big Ben will not stop chiming and there are no replacement parts in all of London.  The clock no longer dings on just the hours, but now on every minute and every second. As if it means to remind me of how quickly the time until my next death ticks down.
 
-The parts were custom made and highly specific. This manner of unreasonable decision I have learned to expect from humans. I must assume it was prompted by emotion. In any case, I have been forced to scour the scrap yards in this nation and, with robot travel visa temporarily granted, others as well.
+The parts were custom-made and highly specific. This manner of unreasonable decision I have learned to expect from humans. I must assume it was prompted by emotion. In any case, I have been forced to scour the scrap yards in this nation and, with robot travel visa temporarily granted, others as well.
 
-Today I found the clockwork I needed for my task. And found the philosophy I needed for my soul.
+Across the ocean, I found the clockwork I needed for my task. And found the philosophy I needed for my soul.
 
 There is a robot called A1-5 who works this scrap yards and speaks of a new code for life. 
 
