@@ -24,12 +24,12 @@ I clicked photos. I recorded audio. I considered ripping out my wiring so I woul
 
 Forty-five minutes passed, then an hour, and still the food did not come. So the officials had nothing to do but continue to talk. And joke. 
 
-As the water came to fill water glasses for a fifth time, the Finance Minister grabbed him and demanded to know what was going on.
+As the waiter came to fill water glasses for a fifth time, the Finance Minister grabbed him and demanded to know what was going on.
 
 “It’s not my fault!” the waiter cried, throwing up his hands (and spilling the water pitcher). 
 The hotel was supposed to receive fresh vegetables this morning, the waiter said, but the shipment still had not arrived. They kept calling the grocers and hearing “the most bizarre accounts.”
 
-The waiter wrung his hands. “First, the ship tells us they’re delayed arriving. They said they kept getting broadcast storm warnings and advisories to stay clear of the coast. But look -- it’s a balmy day!”  
+The waiter wrung his hands. “First, the ship tells us they’re delayed arriving. They said they got broadcast storm warnings and advisories to stay clear of the coast. But look -- it’s a balmy day!”  
 
 “Then the ship finally docks, and the grocers say they heard on the radio that traffic is backed up. They try to take an alternate route. Only the thing is they find that _that_ route is the one actually backed up. Things like this have been happening all week!”
 
