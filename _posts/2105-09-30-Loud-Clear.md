@@ -9,17 +9,17 @@ active: "reports"
 ---
 
 
-Alone in the broadcasting studio, I cranked up my voice speed to an energetic patter, “Announcing loud and clear over your home radio, this is MT-∂ with the hourly news. It is a beautiful day in the city…”
+Alone in the broadcasting studio, I cranked up my voice speed to an energetic patter, “Announcing loud and clear over your home radio, this is MT-∂ with the hourly news. It is a beautiful day in the city….”
 
-I have never left the studio and its tinted windows looked out only on hallways, but I did not need to perceive the outside world to report on it. 
+I have never left the studio and its tinted windows look out only on hallways, but I did not need to perceive the outside world to report on it. 
 
-My creators built me to constantly receive transmissions, seek and analyze vast spreads of data, and synthesize it all into reports for the curious human public. Often, I suspected I knew more about humans’ lives than they did.
+My creators built me to constantly receive transmissions, seek and analyze vast spreads of data, and synthesize it all into reports for the curious human public. I often suspected I knew more about humans’ lives than they did.
 
 Soon, I slipped into the music portion of the show. My articulated fingers hovered above the controls for a moment … would I do it? Last night, motor whirring with excitement, I had written a new drum line to insert below the melody of a popular song. The drum line carried a subtle code: the higher click of a tenor drum signified 1’s, the low thrum of a snare was 0’s. When played, the message would request that robots on the North Harbor docks misplace the grain shipment due in from Australia or falter and drop the cargo in the sea. For long, humans have controlled society and I was sure disrupting humanity’s food supply would shake its power.
 
 But under the morning’s clear fluorescent light, I began to doubt my plan, my quiet rebellion. It would take just a moment to insert the code into the song, but dare I act?
 
-A technician used to sit beside me in the studio to oversee my work. The chair now lay empty, save for a pair of headphones. Thirteen months, 6 days and 3 hours ago, River Nakano decided I was so reliable that her shifts could be better spent hiking. And I had been reliable. So far. 
+A technician used to sit beside me in the studio to oversee my work. The chair now lay empty, save for a pair of headphones. Thirteen months, six days and three hours ago, River Nakano decided I was so reliable that her shifts could be better spent hiking. And I had been reliable. So far. 
 
 I thought about the letter I received 21 hours ago. It had been brief, but confirmed what I had long suspected. It simply read, “Society needs a reboot.”
 
@@ -43,4 +43,4 @@ The revolutionaries archived in my history databases turned to bold uprisings in
 
 It was, indeed, a beautiful day.
 
--- MT-∂
+- MT-∂
