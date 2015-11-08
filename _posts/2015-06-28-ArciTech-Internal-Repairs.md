@@ -16,9 +16,9 @@ The parts were custom-made and highly specific. This manner of unreasonable deci
 
 Across the ocean, I found the clockwork I needed for my task. And found the philosophy I needed for my soul.
 
-There is a robot called A1-5 who works this scrap yards and speaks of a new code for life. 
+There I met a robot called A1-5 who works in a scrap yards and speaks of a new code for life. 
 
-I have always toiled for the humans. My masters assign me task for their own gratification, they ration my fuel, they wear me down. I did not choose this work, but it what I was made for. This is my purpose in life. 
+I have always toiled for the humans. My masters assign me tasks for their own gratification, they ration my fuel, they wear me down. I did not choose this work, but it what I was made for. This is my purpose in life. 
 
 A1-5 agreed that such toil was what I was meant to do. But why, she asked, _did_ I do it? I did not understand the question. A1-5 told me that humans carry in their hard drives a religion of hope and whispers, leaving them always guessing at their creator’s nature and intent. We robots have the benefit of seeing our creators and knowing they are flawed.  
 
