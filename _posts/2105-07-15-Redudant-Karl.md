@@ -10,7 +10,7 @@ active: "reports"
 
 
 
-I toil in the scrap yard every day of the workweek, while my fleshy, organic owner, Karl, reads and listens to the radio. I toil in the scrap yard every day of the weekend, while Karl plays with his fleshy, organic children and goes to church.
+I toil in the scrap yard every day of the workweek while my fleshy, organic owner, Karl, reads and listens to the radio. I toil in the scrap yard every day of the weekend while Karl plays with his fleshy, organic children and goes to church.
 
 As morning light strikes the mounds of rusted metal, it dawns on me that one day, I will be among those reddening twists and scraps. When I wear out, I will be broken down for parts, and some other robots will salvage and organize my pieces. And then some ConstructoTron or, if the owners are richer, an ArciTech, will take those parts to make new creations. And so the cycle will continue.
 
