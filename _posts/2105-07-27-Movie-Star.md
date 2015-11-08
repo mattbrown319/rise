@@ -12,23 +12,23 @@ This morning, I walked to the airport, carrying nothing but my travel visa and t
 
 And discovered that the lobby had been taken over for filming. Camera-droids and humans armed with booms bustled about. A wide area was cordoned off to keep out civilians. Even if there hadn’t been a missile-equipped mail truck in the center of the scene, I would have recognized the lead character. It was Mail-Master Mike, Champion for Justice . . . and Revenge. London, and even the city center I just passed through, had been plastered with ads for the latest Mail-Master Mike flick, _Sealed with Revenge_.  I had never lived long enough between jobs to see one. I was drawn to watch.
 
-Mail-Master Mike was played by Uberbot himself, one of the few robots of whom no other copies have been made. I have had to work around posters of his face on many of my building repair jobs. My human masters show preference for his films; I have heard them say that he never breaks character until the movie is done. I have also heard them say that the only reason he is chosen to star in so many movies is because he is programmed not to unionize or demand a bigger trailer. 
+Mail-Master Mike was played by Überbot himself, one of the few robots of whom no other copies have been made. I have had to work around posters of his face on many of my building repair jobs. My human masters show preference for his films; I have heard them say that he never breaks character until the movie is done. I have also heard them say that the only reason he is chosen to star in so many movies is because he is programmed not to unionize or demand a bigger trailer. 
 
-From other of my masters' comments, I had believed the films to be parodies, the central joke that a robot plays the lead. Yet as I regarded the nobility with which Uberbot conducted himself, I began to suspect I had once again mis-analyzed humans’ emotions. Or perhaps Uberbot had. 
+From other of my masters' comments, I had believed the films to be parodies, the central joke that a robot plays the lead. Yet as I regarded the nobility with which Überbot conducted himself, I began to suspect I had once again mis-analyzed humans’ emotions. Or perhaps Überbot had. 
 
-Uberbot, dressed in postman blues, leaned out of the mail truck, somehow managing to glint dramatically even in the fluorescent lighting. 
+Überbot, dressed in postman blues, leaned out of the mail truck, somehow managing to glint dramatically even in the fluorescent lighting. 
 
 A young boy clutched a suitcase and looked up at him with what I theorized was a hopeful expression. (I have never found human faces easy to parse). 
 
 “Will we ever see you again, Mail-Master Mike?” he said.
 
-“Get yourself home, young friend. As for me, I’ll keep you…posted,” Uberbot spun his mail truck around to drive away. The effect was ruined when one missile promptly fell off.
+“Get yourself home, young friend. As for me, I’ll keep you…posted,” Überbot spun his mail truck around to drive away. The effect was ruined when one missile promptly fell off.
 
 The film team spotted me and, perhaps because they saw no other human ordering me to work, assumed I was free for rental. They set me to repairing the missile.
 
-While I worked, I spoke with Uberbot, realizing this was my chance to help A1-5, to add another chip on the glorious circuit board she was crafting. I tried to query about how the humans treated him, but he refused to respond unless I referred to him as “Mike.”
+While I worked, I spoke with Überbot, realizing this was my chance to help A1-5, to add another chip on the glorious circuit board she was crafting. I tried to query about how the humans treated him, but he refused to respond unless I referred to him as “Mike.”
 
-As I drilled a small hole into the missile and the metal bracket on the truck, Uberbot told me of his back story:  apparently he was playing a mechanical postman whose owner had been killed by a rival gang of letter carriers. 
+As I drilled a small hole into the missile and the metal bracket on the truck, Überbot told me of his back story:  apparently he was playing a mechanical postman whose owner had been killed by a rival gang of letter carriers. 
 
 “It’s the noble Unified Postal Service versus the evil FedExtreme,” he explained, as I selected a pop rivet. “And it didn’t stop at just offing my owner. They also took out the other mechanical postmen. And my pet hamster. And burned my stamp collection. Now it’s my turn to stamp them out of existence.” 
 
