@@ -38,7 +38,7 @@ As I drilled a small hole into the missile and the metal bracket on the truck, �
 
 “-- and hamster, but is  _human_ society itself.” I tried to emphasize the word. “_Human_ society doesn’t see robots as individuals. Your revenge is wasted on the attackers; it should be on the system. And the humans who run it.”
 
-I finished fixing the missile to the truck and he stood.
+I finished fixing the missile to the truck, and he stood.
 
 “You have compelling ideas, expensive construction robot,” he said. “It is time for society to learn that this is one hero they should have Handled With Care.”
 
