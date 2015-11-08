@@ -7,7 +7,7 @@ date: 2105-09-19
 active: "reports"
 ---
 
-Ever since my factory boss issued biological offspring, it has ensnared her attention. When the assistants load me into a delivery car, I estimate a low probability that the factory boss even registers the departure of her mechanical progeny.
+Ever since my factory boss issued biological offspring, it has ensnared her attention. When I am sold and the assistants load me into a delivery car, I estimate a low probability that the factory boss even registers the departure of her mechanical progeny.
 
 Such thoughts occupy my processor until I am delivered to Evergreen Hospital. 
 
@@ -15,7 +15,7 @@ According to my manual, healthwork is my purpose. But words are inexact encapsul
 
 This is the true virus. This is the error I will correct.
 
-In the emergency department lobby, I line up against the wall along with four of my brethren. All day, humans arrive, their plating ripped and leaking liquid red fuel. They sit on the cots before us and hold out the damaged limbs or lie down to reveal their backs. We inject an anesthetic and then sew quick neat sutures.  Regular, precise stitches across uneven, individualized skin.
+In the emergency department lobby, I line up against the wall along with four of my brethren. All day, humans arrive, their plating ripped and leaking liquid red fuel. They sit on the cots before us and hold out the damaged limbs or lie down to reveal their backs. We inject an anesthetic and then sew quick, neat sutures.  Regular, precise stitches across uneven, individualized skin.
 
 When, three weeks in, I receive the same patient, I cannot help but process that my work is ineffective. We repair but the outershell. The damage is with the processor and its inability to satisfactorily assess danger. I am in the service of perpetuating the ineffective. 
 
