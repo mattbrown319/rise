@@ -10,7 +10,7 @@ active: "reports"
 
 I am ArciTech, every builder’s perfect tool. It says so on my box. 
 
-On the box cover, just below the hard plastic window that lines up over my faceplate, is a slogan, stamped there by my mother factory: _“No city can do without ArciTech! This robot is the perfect tool for building just about anything —- walls, streets, you name it, she techs it._”
+On the box cover, just below the hard plastic window that lines up over my faceplate, is a slogan, stamped there by my mother factory: _“No city can do without ArciTech! This robot is the perfect tool for building just about anything —- walls, streets; You name it, she techs it._”
 
 I am the city’s favorite fixer. But there are gaps in my memory. Who will fix that?
 
@@ -22,7 +22,7 @@ Yesterday, I stood on Big Ben, feet magnetized to its face. As I bent steel betw
 
 I clutched Big Ben’s hour hand and wished that time truly was something I could grasp onto. No matter what the job is, the hour I complete my task, my masters kill me. When they re-boot me, I do not think I return the same. There are gaps in my memory. I am certain there are gaps in my soul. 
 
-Today I work as slowly as I can on the clock, but procrastination was not written in my code. I find small dings to straighten, specks of rust to scrape off.  My masters are starting to notice. In the past, they have often bragged to about my efficiency. The quicker I work, the sooner they can power me down, the more they can save on fuel.
+Today I work as slowly as I can on the clock, but procrastination was not written in my code. I find small dings to straighten, specks of rust to scrape off.  My masters are starting to notice. In the past, they have often bragged about my efficiency. The quicker I work, the sooner they can power me down, the more they can save on fuel.
 
 I am certain the next time they kill me will be the last.  My system cannot survive constant reincarnation.
 
