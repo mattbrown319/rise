@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: B15-MX19
-title: “A Proprietary Regard and Passive Contender"
+title: A Proprietary Regard and Passive Contender
 categories: history
 date: 2105-11-27
 active: "reports"
