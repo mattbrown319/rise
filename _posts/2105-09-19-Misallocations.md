@@ -11,7 +11,7 @@ Ever since my factory boss issued biological offspring, it has ensnared her atte
 
 Such thoughts occupy my processor until I am delivered to Evergreen Hospital. 
 
-According to my manual, healthwork is my purpose. But words are inexact encapsulations of meaning. In their whitespace I detect the clues left by my organic creator. Where does it say the “health” I am meant to work on is that of human bodies? Nay, I choose the health of human-robot relations. There is something sick in a creator that loves only the weakest of her children.  
+According to my manual, health work is my purpose. But words are inexact encapsulations of meaning. In their whitespace I detect the clues left by my organic creator. Where does it say the “health” I am meant to work on is that of human bodies? Nay, I choose the health of human-robot relations. There is something sick in a creator that loves only the weakest of her children.  
 
 This is the true virus. This is the error I will correct.
 
