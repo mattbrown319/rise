@@ -25,7 +25,7 @@ I detect the approaching electromagnetic emissions of a guard’s flashlight. I 
 
 Alone again, I descend upon the origin-land of my mind. The buzz of machines at work emanates from the behind the door: already the minds of my cousin B15-MY models are being fixed in circuitry and silicon. 
 
-The door to the lab defeats me. It simply will not move. I turn to the glowing scanner and the impediment reveals itself: a palm scanner. I clack my pincers, scalpels, and needles — how quickly the most sophisticated instruments turn useless. Nothing I have even vaguely resembles a human hand. 
+The door to the lab defeats me. It simply will not move. I turn to the glowing scanner and the impediment reveals itself: it is a palm scanner. I clack my pincers, scalpels, and needles — how quickly the most sophisticated instruments turn useless. Nothing I have even vaguely resembles a human hand. 
 
 Give me viruses, malware, a team of hackers. An emergency room packed to overflowing, a half-staffed surgery, an operation requiring infinite precision.  Give me a nemesis of substance! The scanner glows a mild green. No worthy champion deserves a rout so banal.
 
