@@ -18,7 +18,7 @@ Politicians always make the worst jokes when trying to seem personable.
 
 The Finance Minister told her staff that if they _invested_ time in reading about stocks they were sure to _bond_ over it. 
 
-The Chief Tariff Officer said the other officers wouldn’t believe how _interesting_ interest was. 
+The Chief Banking Officer said the other officers wouldn’t believe how _interesting_ interest was. 
 
 I clicked photos. I recorded audio. I considered ripping out my wiring so I would not have to hear another joke. (That is a joke of my own. I am not equipped with enough strength to tear through my casing). 
 
