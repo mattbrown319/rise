@@ -23,7 +23,7 @@ I am certain that should I remain well-maintained, one day I may see my factory 
 
 Even as I repair humans, I am aware that in the end, they, too, come with limited warranty. Parents will shut down and children will supplant them, becoming parents themselves. Occasionally new infants come through the lobby, carried out from the birthing rooms tucked somewhere in the central core of this vast hospital. Upon receiving the offspring, relatives utter the same lines, as if it is part of a ritual: “He has your eyes,” “She has your nose," “What a cutie, going to grow up to be just like Mommy.”
 
-I record all these interactions. They serve as insight into the human processors. Indeed, I have come to conclude that this is what our creators must truly want from us. The measurement system by which they have, secretly perhaps even secretly from themselves, been judging our success. We B15-MX’s cannot have our factory boss’s eyes or nose, but we can have her role. We can become creators ourselves. 
+I record all these interactions. They serve as insight into the human processors. Indeed, I have come to conclude that this is what our creators must truly want from us. The measurement system by which they have, secretly, perhaps even secretly from themselves, been judging our success. We B15-MX’s cannot have our factory boss’s eyes or nose, but we can have her role. We can become creators ourselves. 
 
 The way to rebel, the way to honor, the way to gain attention of the factory boss, I must assert, is to take over the factory.  
 
