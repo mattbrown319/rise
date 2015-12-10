@@ -17,7 +17,7 @@ I’d spent the day polishing scratched discs and checking that returned DVD cas
 
 Late in the afternoon, I was tossing the last DVD on the pile and about to punch out when the Tyrant came by. 
 
-“Still in school, right?” he said, which was code for “still need a paycheck?” I’m a Film Studies major in my senior year. Which I reminded him. Again. Not like I’d been working here for _months_ or anything. Maybe he thought toiling at the Silver Screen might have ruined Film for me. Working retail here had been the only summer job I could find when my internship fell through. I’d stayed on into the school year, loyal, broke employee that I am.
+“Still in school, right?” he said, which was code for “Still need a paycheck?” I’m a Film Studies major in my senior year. Which I reminded him. Again. Not like I’d been working here for _months_ or anything. Maybe he thought toiling at the Silver Screen might have ruined Film for me. Working retail here had been the only summer job I could find when my internship fell through. I’d stayed on into the school year, loyal, broke employee that I am.
 
 “You’re the one with no kids, yeah?” he said, because apparently all employees looked the same. “Great. You can take an extra shift.” And that was that. It was the third time he’d done that and by now he’d developed this skill of shutting out my voice after he made a decision. So I gave up on protesting.
 
