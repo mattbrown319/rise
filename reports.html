@@ -16,7 +16,7 @@ permalink: /reports/
             <div class="timeWrap">
 	            <time class="post-meta">{{ post.date | date: "%Y.%m.%-d" }}</time>
 	            <cite>
-	            	<a href="{{site.baseurl}}/authors/{{post.author | downcase | remove:'-' | remove:'™' | remove: '.'}}/">_{{ post.author }}</a>
+	            	<a href="{{site.baseurl}}/authors/{{post.author | downcase | remove:'-' | remove:'™' | remove: '.' | remove: ' '}}/">_{{ post.author }}</a>
 	            </cite>
 	        </div>
             <h3>
