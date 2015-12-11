@@ -213,6 +213,7 @@
         	&:hover{color: white;}
         	}
 	    }
+	.post-list{min-width: 100%;}
 	li{
 		background: linear-gradient(45deg, rgba(black,.6),rgba($closeBlack,.8));
 		border-bottom: 5px solid $mainBlack;
