@@ -21,7 +21,7 @@ Carefully holding the fabric between my pincers, I pull on the suit. The materia
 
 Once sure the human is gone, I open my closet door again and yank the alarm. The hallway explodes into noise. 
 
-I duck back as workers rush out of the lab and down the hall. I hurry to the lab door and catch it just before it closes. 
+I duck back as workers rush out of the lab and down the hall. I hurry to the door and catch it just before it closes. 
 
 The room inside appears to be merely an entryway, a place for changing into body suits. At its end lies another door. It slides open at my approach, and then I am inside the birthplace of minds. 
 
@@ -45,7 +45,7 @@ My pincers click across the screen as I enter a randomization into the code. Let
 
 Now as the printers hum around me, it seems to be to a victory march. Let my factory boss see this! Her heart rate will elevate, she will carry my image in her wallet!
 
-Shouts come from outside, my infiltration discovered. Human intelligence is not so limited they cannot discern a falsely pulled fire alarm. I rush to shove a printer in front of the door — so many crude solutions today — just as humans push against it. 
+Shouts come from outside, my infiltration discovered. Human intelligence is not so limited the workers cannot discern a falsely pulled fire alarm. I rush to shove a printer in front of the door — so many crude solutions today — just as humans push against it. 
 
 They must not interrupt my work before it is done. There will be a time for them to see it, and admire.
 
