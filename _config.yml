@@ -11,6 +11,7 @@ github_username:  Eye4Games
 markdown: kramdown
 
 defaults:
+
  -
     scope:
       path: ""      # empty string for all files
@@ -21,7 +22,7 @@ defaults:
  
   -
     scope:
-      path: ""      # empty string for all files
+      path: "reports"      # empty string for all files
       type: posts   # limit to posts
     values:
       layout: post
