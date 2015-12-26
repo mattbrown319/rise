@@ -14,7 +14,7 @@ defaults:
  -
     scope:
       path: ""      # empty string for all files
-      type: "pages"   # limit to pages
+      type: pages   # limit to pages
     values:
       layout: default
       is_post: false # automatically set is_post=true for all posts
@@ -22,7 +22,7 @@ defaults:
   -
     scope:
       path: ""      # empty string for all files
-      type: "posts"   # limit to posts
+      type: posts   # limit to posts
     values:
       layout: post
       is_post: true # automatically set is_post=true for all posts
