@@ -11,14 +11,6 @@ github_username:  Eye4Games
 markdown: kramdown
 
 defaults:
-
- -
-    scope:
-      path: ""      # empty string for all files
-      type: pages   # limit to pages
-    values:
-      layout: default
-      is_post: false # automatically set is_post=true for all posts
  
   -
     scope:
