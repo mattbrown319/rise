@@ -9,3 +9,11 @@ github_username:  Eye4Games
 
 # Build settings
 markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: ""      # empty string for all files
+      type: posts   # limit to posts
+    values:
+      is_post: true # automatically set is_post=true for all posts
