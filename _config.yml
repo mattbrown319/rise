@@ -14,7 +14,7 @@ defaults:
  
   -
     scope:
-      path: "history"      # empty string for all files
+      path: ""      # empty string for all files
       type: posts   # limit to posts
     values:
       layout: post
