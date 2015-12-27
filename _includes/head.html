@@ -14,6 +14,12 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
     
     {% if page.is_post %}
+    <meta property="og:type" content="article">
+	<meta property="og:title" content="{{ page.title }}">
+	<meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
+	<meta property="og:url" content="{{ page.url }}">
+	<meta property="og:image" content="{{"/images/article-preview.jpg" | prepend: site.baseurl}}">
+    
     <meta name="twitter:card" content="summary" />
 	<meta name="twitter:site" content="@Eye4Games" />
 	<meta property="twitter:creator" content="@Eye4Games" />
