@@ -11,9 +11,9 @@ active: "reports"
 
 A simple foe must fall to a simple ploy. 
 
-Once more, I avoid detection by slipping inside a closet. Though an easy solution, it is an effective one and one I take to bode well for my greater plan. Nestled among full-body lab suits, I watch the lab door. Muffled human voices rise from behind it.
+Once more, I avoid detection by slipping inside a closet. Though an easy solution, it is an effective one and I take it to bode well for my greater plan. Nestled among full-body lab suits, I keep the closet open just enough to watch the lab. Muffled human voices rise from behind its door.
 
-On the wall beside my closet is a fire alarm. As I lean out to pull it, the lab door hisses open and a human walks out. Behind her, I glimpse white full-body suits hanging and another set of doors. She turns and I fall back just in time to avoid detection. I crouched down in the closet and dare not lean out for another look.
+On the wall beside my closet is a fire alarm. As I lean out to pull it, the lab door hisses open and a human walks out. Behind her, I glimpse white full-body suits hanging and another set of doors. She turns, and I fall back just in time to avoid detection. I crouch down in the closet and dare not lean out for another look.
 	
 How close I had come to being discovered! How the events of a second can shift one’s entire future.  Such a quick and simple defeat would be intolerable when I am so close to proving my worth. As I wait for the human’s footsteps to die away, I brush against the sleeve of a body suit. And I have my solution. 
 
@@ -37,7 +37,7 @@ I scan the computer screen, wondering what to press. Change one variable, one li
 
 Each choice carries inside itself the seed of danger. Which buttons to press to make a greater appreciation for beauty? Which will instill a mental breakdown? 
 
-I am a healthcare robot, I have seen how human bodies work and have pieced them back together. Surely there must be something here I can repair, piece together better. The brains are not yet finished…
+I am a healthcare robot; I have seen how human bodies work and have pieced them back together. Surely there must be something here I can repair, piece together better. The brains are not yet finished… .
 
 Inspiration strikes. Have I not suffered from being created too structured, when my human creators favor irregularity? Let these robots be spared the process of discovery I went through, let me make them irregular as well.  For a long moment, I examine the programs. At last, I think I understand.
 
