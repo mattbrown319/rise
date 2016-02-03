@@ -17,10 +17,8 @@ My laptop whirred loudly and started to seize up. Again.
 I snapped up my phone and heard Rodney — my computer science friend — on the other end before my mind fully registered I had called. Computer crisis had become something of a pattern for me, you see.
 
 As I explained the laptop problem, I realized I had another, more important job for him. 
-
-                                        ***
                                       
-Rodney stared at the little robot crouching on my now-sparkling floor. His first reaction¬¬ – because, friend or no friend, he’s a pain ¬– was to berate me for the school’s four-day spoon-shortage. It took until Thursday for the replacement washer bot to be delivered. But when I explained what I wanted, he straightened out of his disgruntled slouch.
+Rodney stared at the little robot crouching on my now-sparkling floor. His first reaction — because, friend or no friend, he’s a pain — was to berate me for the school’s four-day spoon-shortage. It took until Thursday for the replacement washer bot to be delivered. But when I explained what I wanted, he straightened out of his disgruntled slouch.
 
 “You want me to reprogram it?” Rodney ran a hand through his red hair, pocketed his sunglasses, and rolled up his plaid sleeves. He crouched down and flipped ChefCutlery on his back. The bot waved his arms, grasping for utensils to wash.
 
@@ -38,6 +36,6 @@ Once he knew he was free, he’d be happier, right? I mean, right?
 
 And then I began to think: if Rodney reprograms ChefCultery, what’s to stop him reprogramming _me?_ From thinking I’d be happier if I was different?
 
-I shook my head. I’m too complicated a robot for that. I’ve got a developed personality, a sense of self, complex thoughts. … Could someone really change that or take that away?
+I shook my head. I’m too complicated a robot for that. I’ve got a developed personality, a sense of self, complex thoughts… Could someone really change that or take that away?
 
 I sunk down with my back against the door and tried not to shiver. Half an hour later, Rodney rattled the banged on the door and called my name, but I couldn’t bring myself to let him in. 
