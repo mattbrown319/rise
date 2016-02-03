@@ -1,0 +1,32 @@
+---
+layout: page
+title: Wally Street
+subtitle: reports from
+group: "navigation"
+active: "reports"
+permalink: /authors/wallystreet/
+---
+
+<div class="reportWrap">
+  <section class="authorSpace">
+      <p><b>Wally<sup>ST</sup></b> was meant to be friendly financial assistant. But his handy tips, offered in a chirpy voice and displayed in Comic Sans, went ignored by humans who preferred to trust their instinct, or, really, do <i>anything</i> other than listen to his chatter.</p>
+  </section>
+  <section class="reportsIncoming">
+      <ul class="post-list">
+        {% for post in site.posts %}
+            {% if post.author == "Wally Street" %}
+          <li>
+            <div class="timeWrap"><time class="post-meta">{{ post.date | date: "%Y.%m.%-d" }}</time><cite><a href="{{site.baseurl}}/authors/{{post.author | downcase | remove:'-' | remove:'™' | remove: '.'}}/">_{{ post.author }}</a></cite></div>
+            <h3>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h3>
+            <p>{{post.excerpt}}</p>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="readLink">read</a>
+          </li>
+          {% else %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+  </section>
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+</div><!-- reportWrap -->
